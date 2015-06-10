@@ -46,6 +46,7 @@
 * https://github.com/ncb000gt/node.bcrypt.js
 * https://github.com/justinlatimer/node-midi
 * http://www.digital-web.com/articles/scope_in_javascript/
+* http://www.codewars.com
 
 ### Utilities 
 * https://cloudconvert.org
