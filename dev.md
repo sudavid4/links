@@ -46,8 +46,9 @@
 * https://github.com/ncb000gt/node.bcrypt.js
 * https://github.com/justinlatimer/node-midi
 * http://www.digital-web.com/articles/scope_in_javascript/
+* http://www.codewars.com
 
-### Utilities 
+### Utilities
 * https://cloudconvert.org
 * http://color.hailpixel.com
 * https://clippingmagic.com
@@ -60,7 +61,9 @@
 * http://www.codemonkey.co.il
 * http://alexnisnevich.github.io/untrusted
 * http://euclidthegame.com
+* http://killersudokuonline.com
 
 #### Funny
 * http://whatthecommit.com/
 * https://www.destroyallsoftware.com/talks/wat
+* haha
