@@ -20,6 +20,7 @@
 
 #### videos
 * https://www.youtube.com/watch?v=wsuygCu_oPY
+* https://www.youtube.com/watch?v=m3svKOdZijA
 
 #### To read/learn/try/implement
 * http://mean.io/
