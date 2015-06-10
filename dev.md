@@ -20,7 +20,7 @@
 
 #### videos
 * https://www.youtube.com/watch?v=wsuygCu_oPY
-
+* https://www.destroyallsoftware.com/talks/wat
 #### To read/learn/try/implement
 * http://mean.io/
 * http://en.wikipedia.org/wiki/Redis
