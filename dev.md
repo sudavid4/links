@@ -60,6 +60,7 @@
 * http://www.codemonkey.co.il
 * http://alexnisnevich.github.io/untrusted
 * http://euclidthegame.com
+* http://killersudokuonline.com
 
 #### Funny
 * http://whatthecommit.com/
